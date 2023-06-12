@@ -6,7 +6,7 @@ INSTRUCTIONS
 2) git clone https://github.com/lasttycoon2506/wasteagram-app.git
 3) cd wasteagram-app
 4) cd wasteagram
-5) choose an emulator
-6) run
-
+5) dart pub get
+6) choose an emulator
+7) run
 ```
