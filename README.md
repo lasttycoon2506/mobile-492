@@ -8,5 +8,5 @@ INSTRUCTIONS
 4) cd wasteagram
 5) dart pub get
 6) choose an emulator
-7) run
+7) flutter run
 ```
