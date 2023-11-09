@@ -13,7 +13,7 @@ App allows a mock business to keep track of its wasted items by recording & dele
 7) flutter run
 ```
 ## How-to
-### Add New Entry:
+#### Add New Entry:
 1) Click on picture icon at bottom
 
    
