@@ -26,7 +26,7 @@ App allows a mock business to keep track of its wasted items by recording & dele
       ![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/53dcf948-928c-4db8-8cfa-48e04ee743df)
 
 
-3) Enter number of wasted items and click ✓ mark at bottom-right
+3) Enter number of wasted items and click ✓ at bottom-right
 
       ![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/314004cb-2f38-4a0f-91c5-0c17c85fb497)
 
