@@ -26,9 +26,13 @@ Add New Entry:
 ![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/53dcf948-928c-4db8-8cfa-48e04ee743df)
 
 
-5) Enter number of wasted items and click ✓ mark at bottom-right
-![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/b380c8ea-95af-4668-8ffe-7198da3c132e)
-6) Simply upload to Firebase by clicking upload button at bottom of screen
-![Screenshot 2023-11-09 112400](https://github.com/lasttycoon2506/mobile-app/assets/114425878/e2629c61-acd1-425e-950f-3bac34dbc284)
+3) Enter number of wasted items and click ✓ mark at bottom-right
 
+   ![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/314004cb-2f38-4a0f-91c5-0c17c85fb497)
+
+
+4) Simply upload to Firebase by clicking upload button at bottom of screen
+
+
+![Screenshot 2023-11-09 112400](https://github.com/lasttycoon2506/mobile-app/assets/114425878/205385c5-3da0-4e5d-ad5a-f311d5ab1624)
 
