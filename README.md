@@ -15,10 +15,10 @@ App allows a mock business to keep track of its wasted items by recording & dele
 ## How-to
 Add New Entry:
 1) Click on picture icon at bottom
-  
+  <p>
 <img src=""C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111200.png"" height="200rm" align="right">
 
-
+</p>
 ![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/315579c4-d8ba-4c38-b545-2b15dec39bf0)
 
 3) Click on photo to add (photos top right)
