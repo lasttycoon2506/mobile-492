@@ -1,6 +1,6 @@
-# wasteagram-app
+# Wasteagram-app
 
-INSTRUCTIONS
+## Set-Up
 ```bash
 1) follow https://docs.flutter.dev/get-started/install
 2) git clone https://github.com/lasttycoon2506/mobile-app.git
