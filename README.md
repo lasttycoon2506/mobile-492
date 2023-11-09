@@ -19,7 +19,6 @@ Add New Entry:
 <img src=""C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111200.png"" height="200rm" align="right">
 --->
 
-
 ![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/315579c4-d8ba-4c38-b545-2b15dec39bf0)
 
 3) Click on photo to add (photos top right)
