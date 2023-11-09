@@ -15,9 +15,9 @@ App allows a mock business to keep track of its wasted items by recording & dele
 ## How-to
 Add New Entry:
 1) Click on picture icon at bottom
-<!-- 
+<!--- 
 <img src="C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111200.png" height="200rm" align="right">
--->
+--->
 2) Click on photo to add (photos top right)
 <img src="C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111700.png" height="200rm" align="right">
 
