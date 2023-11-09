@@ -16,13 +16,12 @@ App allows a mock business to keep track of its wasted items by recording & dele
 Add New Entry:
 1) Click on picture icon at bottom
 <!---  
-<img src=""C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111200.png"" height="200rm" align="right">
+<img src="C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111200.png" height="200rm" align="right">
 --->
-
-![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/315579c4-d8ba-4c38-b545-2b15dec39bf0)
-
-3) Click on photo to add (photos top right)
-![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/e1c388d3-a3b8-41fa-b846-7522e445f2e3)
+2) Click on photo to add (photos top right)
+<!---
+<img src="C:\Users\werob\Pictures\Screenshots\Screenshot 2023-11-09 111700.png" height="200rm" align="right">
+--->
 4) Enter number of wasted items and click ✓ mark at bottom-right
 ![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/b380c8ea-95af-4668-8ffe-7198da3c132e)
 5) Simply upload to Firebase by clicking upload button at bottom of screen
