@@ -15,7 +15,8 @@ App allows a mock business to keep track of its wasted items by recording & dele
 ## How-to
 Add New Entry:
 1) Click on picture icon at bottom
-![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/3fded6f0-d38e-4cb3-a81b-aa6ae2ed370e)
+![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/0a44e5b9-de24-40ea-92ad-2dcca14b9e78)
+
 2) Click on photo to add (photos top right)
 ![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/e1c388d3-a3b8-41fa-b846-7522e445f2e3)
 3) Enter number of wasted items and click ✓ mark at bottom-right
