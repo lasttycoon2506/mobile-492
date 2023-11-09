@@ -1,7 +1,7 @@
 # Wasteagram-app
 A mobile app connected to Firebase Firestore written using the Flutter SDK
 ## Introduction
-App allows a mock business to keep track of its wasted items by creating & deleting a list-viewable collection of individual entries, each entry consisting of: number of wasted items, associated picture, date, and location (longitude, latitude). Each entry clickable revealing an entries details (number of wasted items, picture, date, location). 
+App allows a mock business to keep track of its wasted items by creating & deleting a list-viewable collection of individual entries, each entry consisting of: number of wasted items, associated picture, date, and location (longitude, latitude). Each entry is clickable revealing an entries details (number of wasted items, picture, date, location). 
 ## Set-Up
 ```bash
 1) follow https://docs.flutter.dev/get-started/install
