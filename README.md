@@ -13,26 +13,26 @@ App allows a mock business to keep track of its wasted items by recording & dele
 7) flutter run
 ```
 ## How-to
-Add New Entry:
+### Add New Entry:
 1) Click on picture icon at bottom
 
    
-![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/0f752951-4d36-41d8-ae2d-563bac043d9c)
+      ![Screenshot 2023-11-09 111200](https://github.com/lasttycoon2506/mobile-app/assets/114425878/0f752951-4d36-41d8-ae2d-563bac043d9c)
 
 
 2) Click on photo to add (photos top right)
 
    
-![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/53dcf948-928c-4db8-8cfa-48e04ee743df)
+      ![Screenshot 2023-11-09 111700](https://github.com/lasttycoon2506/mobile-app/assets/114425878/53dcf948-928c-4db8-8cfa-48e04ee743df)
 
 
 3) Enter number of wasted items and click ✓ mark at bottom-right
 
-   ![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/314004cb-2f38-4a0f-91c5-0c17c85fb497)
+      ![Screenshot 2023-11-09 112123](https://github.com/lasttycoon2506/mobile-app/assets/114425878/314004cb-2f38-4a0f-91c5-0c17c85fb497)
 
 
 4) Simply upload to Firebase by clicking upload button at bottom of screen
 
 
-![Screenshot 2023-11-09 112400](https://github.com/lasttycoon2506/mobile-app/assets/114425878/205385c5-3da0-4e5d-ad5a-f311d5ab1624)
+      ![Screenshot 2023-11-09 112400](https://github.com/lasttycoon2506/mobile-app/assets/114425878/205385c5-3da0-4e5d-ad5a-f311d5ab1624)
 
